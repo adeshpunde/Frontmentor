@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://github.com/maudlinmandrake/product-preview-card-component)
-- Live Site URL: [Live](https://maudlinmandrake.github.io/product-preview-card-component)
+- Solution URL: [Solution](https://github.com/adeshpunde/Frontmentor)
+- Live Site URL: [Live](https://github.com/adeshpunde/Frontmentor)
 
 ## My process
 
@@ -64,6 +64,4 @@ Use this section to recap over some of your major learnings while working throug
 
 ## Author
 
-- Website - [Jenny Mikac](https://www.jennymikac.com)
-- Frontend Mentor - [@ymaudlinmandrake](https://www.frontendmentor.io/maudlinmandrake)
-- Twitter - [@jennymikac](https://www.twitter.com/jennymikac)
+- Frontend Mentor - [@adeshpunde](https://www.frontendmentor.io/profile/adeshpunde)
